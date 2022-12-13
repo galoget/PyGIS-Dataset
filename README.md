@@ -23,11 +23,22 @@ Evaluación Curso Python GIS.
 
 ## Notas:
 1. La prueba está diseñada para evaluar aspectos clave y no complicarles mucho la resolución, por lo que no debería tomarles más de 2 horas de realización (considerando alguien nuevo en el tema), para más experimentados el tiempo más rápido sería de unos 20-30 minutos.
-
 2. Las preguntas deben ser respondidas de manera automática a través del código en Python, es decir los cálculos deben ser automatizados para funcionar en base a cualquier dataset proporcionado.
-
 3. La evaluación incluye todo el contenido visto en el Curso. No se incluye nada nuevo o no cubierto en clases.
-
 4. Para cualquier pregunta o inquietud, comunicarse por interno a través del Grupo o mensaje privado.
-
 5. Detalles de la entrega de la Evaluación fueron publicados en el grupo. Leer a detalle las instrucciones.
+
+## Resultados
+
+Las respuestas a las preguntas planteadas son:
+- Escuelas en Fase Primaria: 82
+- Escuelas en Fase Secundaria: 11
+- Escuelas en Fase 16 plus: 1
+- Alumnos en lista totales: 38123
+- Escuelas con Nursery: 42
+- Escuelas sin Nursery: 59
+- Escuelas censadas en Mayo 2022: 101
+- Latitud Promedio: 53.717511287128715
+- Longitud Promedio: -1.900788712871287
+
+De esta forma podrán validar si sus scripts están realizando el procesamiento y cálculos correctamente.
